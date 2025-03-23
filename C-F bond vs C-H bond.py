@@ -1,3 +1,4 @@
+## Code written by Bryan CHan
 import numpy as np
 import matplotlib.pyplot as plt
 from qutip import (basis, mesolve, sigmax, sigmaz, qeye)
